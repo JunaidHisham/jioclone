@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="ic_back_arrow" transform="translate(-8 -56)">
+    <rect id="Rectangle_7125" data-name="Rectangle 7125" width="30" height="30" transform="translate(8 56)" fill="none"/>
+    <g id="Group_28107" data-name="Group 28107" transform="translate(-3.25 19)">
+      <line id="Line_2726" data-name="Line 2726" x1="12.728" y2="12.728" transform="translate(26.251 43.276) rotate(45)" fill="none" stroke="#959595" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.4"/>
+      <line id="Line_2727" data-name="Line 2727" x1="10.398" transform="translate(17.251 52.276) rotate(45)" fill="none" stroke="#959595" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.4"/>
+      <line id="Line_2728" data-name="Line 2728" y1="10.398" transform="translate(24.603 44.924) rotate(45)" fill="none" stroke="#959595" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.4"/>
+    </g>
+  </g>
+</svg>

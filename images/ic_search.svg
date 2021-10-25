@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="ic_search" transform="translate(-4888 -2897)">
+    <g id="icon_search_20px_enb" transform="translate(4888 2897)">
+      <rect id="Rectangle_2964" data-name="Rectangle 2964" width="32" height="32" fill="#fff" opacity="0"/>
+      <g id="Search_02" data-name="Search 02" transform="translate(-756 -540.128)">
+        <g id="Group_2958" data-name="Group 2958" transform="translate(762 546.128)">
+          <path id="Path_2323" data-name="Path 2323" d="M769.887,560.32a6.439,6.439,0,1,1,6.366-6.511v.072a6.409,6.409,0,0,1-6.366,6.439m12.89,5.271-6.7-6.776a7.893,7.893,0,1,0-1.053,1.11l6.677,6.753a.754.754,0,0,0,1.067.008l.008-.008a.775.775,0,0,0,0-1.087h0" transform="translate(-762 -546.128)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
