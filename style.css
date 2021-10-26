@@ -149,6 +149,7 @@ body{
     height: 160px;
     align-items: center;
     text-align: start;
+    margin-left: 35px;
 }
 .itembox h2{
      color: black;
@@ -166,7 +167,7 @@ body{
     overflow: hidden;
 }
 .space{
-    margin-left: 6px;
+    margin-left: 10px;
 }
 .item-icon:hover{
     width: 3.5rem;
